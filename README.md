@@ -1,0 +1,1 @@
+# pr-failure-notifier
